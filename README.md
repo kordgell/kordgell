@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Edward 
+Hey, I'm Edward <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5abde33e-b130-415c-b024-3a9c58dbbacf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## 🌐 Socials:
